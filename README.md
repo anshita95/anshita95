@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshita95&label=Profile%20views&color=0e75b6&style=flat" alt="anshita95" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap, JavaScript**
+- 🌱 I’m an AWS certified Data Engineer
 
 - 📫 How to reach me **anshitasingla989955@gmail.com**
 
